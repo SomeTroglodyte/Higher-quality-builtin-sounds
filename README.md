@@ -7,4 +7,5 @@ In most cases the sources have just been compressed to a higher bitrate, with a 
 See [Credits.md](Credits.md) for sources and attribution.
 
 ## Important - how to use
-Currently, the game will not include these sounds unless the mod is active, which means, selected during new game creation. An update to treat sounds like images and enable 'Permanent visual mod' to override audio, to is at the moment just an idea.
+Currently, the game will not include these sounds unless the mod is active, which means, selected during new game creation.
+An update to treat sounds like images and enable 'Permanent visual mod' to override audio, is at the moment just an idea.
