@@ -4,5 +4,3 @@ Exceptions:
 * [Choir women, men and mixed](https://freesound.org/people/liezen3/sounds/479941/) by liezen3 as basis for 'choir' for free great person pick.
 * [machine gun 001 - triple shot](https://freesound.org/people/pgi/sounds/212600/) By pgi as 'machinegun' for machine gun attack sound
 * [Laser of Doom](https://freesound.org/people/michalwa2003/sounds/419591/) by michalwa2003 for Giant Death Robot Attack (CC Attribution 3.0 license)
-
-Preview image is the [Wikipedia screenshot for Audacity](https://de.wikipedia.org/wiki/Datei:Audacity_v._3.0.2.png), [cc-by-sa](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
